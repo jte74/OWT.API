@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OWT.API", "OWT.API\OWT.API.csproj", "{8A003D5A-7C86-4850-A697-DF372DE27282}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OWT.Data", "OWT.Data\OWT.Data.csproj", "{1D5BD49D-558B-4BB9-8152-E0696D363368}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OWT.Domain", "OWT.Domain\OWT.Domain.csproj", "{AB496141-A028-4BD2-85D5-43D7F9645E15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A003D5A-7C86-4850-A697-DF372DE27282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A003D5A-7C86-4850-A697-DF372DE27282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A003D5A-7C86-4850-A697-DF372DE27282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A003D5A-7C86-4850-A697-DF372DE27282}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D5BD49D-558B-4BB9-8152-E0696D363368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D5BD49D-558B-4BB9-8152-E0696D363368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D5BD49D-558B-4BB9-8152-E0696D363368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D5BD49D-558B-4BB9-8152-E0696D363368}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB496141-A028-4BD2-85D5-43D7F9645E15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB496141-A028-4BD2-85D5-43D7F9645E15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB496141-A028-4BD2-85D5-43D7F9645E15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB496141-A028-4BD2-85D5-43D7F9645E15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D15B791-C189-40AD-8C83-77D8453A2712}
+	EndGlobalSection
+EndGlobal
